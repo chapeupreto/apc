@@ -15,7 +15,7 @@ De acordo com as requisições do cliente, o sistema deve permitir as seguintes 
 O programa deve criar a agenda e, uma vez criado, este arquivo não pode ser apagado. Assim,
 deve-se permitir apenas a manipulação deste arquivo, de modo que os dados já gravados possam ser editados, inseridos novos dados ou apagados de acordo com a busca dos dados.
 
-Requisitos para Implementação:
+## Requisitos para Implementação:
 
 - Use uma struct para representar os contatos;
 - A agenda tem tamanho total de 100 registros;

@@ -62,8 +62,6 @@ int main(int argc, const char * argv[])
     char *arquivoAgenda = "agenda.txt";
     
     printf("\n** Trabalho de APC2 e LAB2 **\n");
-    printf("** Aluno: Rodiney Elias Marcal - Matricula 132518 **\n");
-    printf("** Docente: Prof. Dra. Luanna Lobato **\n\n");
 
     do {
         menu();
