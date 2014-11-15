@@ -1,4 +1,4 @@
 apc
 ===
 
-Implementação de exercícios da disciplina Algoritmos e Programação de Computadores
+Implementação de exercícios da disciplina _Algoritmos e Programação de Computadores_
